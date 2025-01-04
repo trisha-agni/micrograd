@@ -4,7 +4,7 @@ __Description__: In this file I have implemented backpropagation, a technique us
 __What I learned__:
 
 Python:
-- It is possible to perform operations on objects by creating methods such as "\_\_add__" and "\_\_mul__".
+- It is possible to perform operations on objects by creating methods such as "__add__" and "__mul__".
 - Graphviz is a Python library that is used to visualize graphs. 
 
 Math:
