@@ -1,7 +1,7 @@
-# micrograd
-__Description__: In this file I have implemented backpropagation, a technique used to optimize neural networks.
+micrograd
+Description: In this file I have implemented backpropagation, a technique used to optimize neural networks.
 
-__What I learned__:
+What I learned:
 
 Python:
 - It is possible to perform operations on objects by creating methods such as "__add__" and "__mul__".
