@@ -12,4 +12,4 @@ Math:
 
 AI:
 - A neural network is simply a complex mathematical function.
-- A neuron in a neural network contains a set of weights for each input it recieves, a bias value, and an activation function.
+- A neuron in a neural network contains a set of weights for each input it receives, a bias value, and an activation function.
