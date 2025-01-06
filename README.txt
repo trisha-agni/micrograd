@@ -7,6 +7,9 @@ Python:
 - Graphviz is a Python library that is used to visualize graphs. 
 
 Math:
-- AP Calculus concepts, specifically derivatives and the chain rule, are at the heart of backpropagation. As someone who is currently taking an AP Calculus course, it was amazing to see real world applications of the content I have been studying!
+- AP Calculus concepts, specifically derivatives and the chain rule, are at the heart of backpropagation. As someone who took an AP Calculus course, it was amazing to see real world applications of the content I had studied!
+- The hyperbolic function tanh is used as an activation function in a neural network.
 
 AI:
+- A neural network is simply a complex mathematical function.
+- A neuron in a neural network contains a set of weights for each input it recieves, a set of biases, and an activation function.
