@@ -4,7 +4,9 @@ What I learned:
 
 Python:
 - It is possible to perform operations on objects by creating methods such as "__add__" and "__mul__".
-- Graphviz is a Python library that is used to visualize graphs. 
+- Graphviz is a library that is used to visualize graphs.
+- PyTorch is a library used for deep learning.
+    - PyTorch's special data structures called tensors can be used to encode the inputs and parameters of the neural network.
 
 Math:
 - AP Calculus concepts, specifically derivatives and the chain rule, are at the heart of backpropagation. As someone who has taken an AP Calculus course, it's amazing to see real world applications of the content I have studied!
