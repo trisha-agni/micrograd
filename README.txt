@@ -3,7 +3,7 @@ Description: In this project I have implemented the gradient descent algorithm t
 What I learned:
 
 Python:
-- It is possible to perform operations on objects by creating methods such as __add__, __mul__, __pow__.
+- It is possible to perform operations on objects by creating methods such as __add__, __mul__, and __pow__.
 - __call__ is a method that behaves like a mathematical function.
 - Graphviz is a library that is used to visualize graphs.
 - PyTorch is a library used for deep learning.
