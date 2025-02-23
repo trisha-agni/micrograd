@@ -11,7 +11,7 @@ Python:
 
 Math:
 - AP Calculus concepts, specifically derivatives and the chain rule, are at the heart of backpropagation. As someone who has taken an AP Calculus course, it's amazing to see real world applications of the content I have studied!
-- The hyperbolic function tanh is used as an activation function in a neural network.
+- The hyperbolic function tanh is used as an activation function in neural networks.
 
 AI:
 - A neural network is simply a complex mathematical function.
